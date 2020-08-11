@@ -1,5 +1,9 @@
 <?php 
 
-echo "Meu Primeiro código  PHP! Hello world";
+echo "Olá Mundo 124";
+
+echo "Olá udemy";
+
+echo "Olá Hcode";
 
 ?>
