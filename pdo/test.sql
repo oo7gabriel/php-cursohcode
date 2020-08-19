@@ -1,0 +1,1 @@
+SELECT * FROM dbphp7.tb_usuarios;
